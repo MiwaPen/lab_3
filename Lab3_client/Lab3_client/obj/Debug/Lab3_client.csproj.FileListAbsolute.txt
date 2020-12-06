@@ -1,0 +1,10 @@
+D:\CODE\7 sem\C#\Lab3_client\Lab3_client\bin\Debug\Lab3_client.exe.config
+D:\CODE\7 sem\C#\Lab3_client\Lab3_client\bin\Debug\Lab3_client.exe
+D:\CODE\7 sem\C#\Lab3_client\Lab3_client\bin\Debug\Lab3_client.pdb
+D:\CODE\7 sem\C#\Lab3_client\Lab3_client\obj\Debug\Lab3_client.csprojAssemblyReference.cache
+D:\CODE\7 sem\C#\Lab3_client\Lab3_client\obj\Debug\Lab3_client.Form1.resources
+D:\CODE\7 sem\C#\Lab3_client\Lab3_client\obj\Debug\Lab3_client.Properties.Resources.resources
+D:\CODE\7 sem\C#\Lab3_client\Lab3_client\obj\Debug\Lab3_client.csproj.GenerateResource.cache
+D:\CODE\7 sem\C#\Lab3_client\Lab3_client\obj\Debug\Lab3_client.csproj.CoreCompileInputs.cache
+D:\CODE\7 sem\C#\Lab3_client\Lab3_client\obj\Debug\Lab3_client.exe
+D:\CODE\7 sem\C#\Lab3_client\Lab3_client\obj\Debug\Lab3_client.pdb
